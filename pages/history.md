@@ -30,4 +30,5 @@ Pat Koch, daughter of Santa Claus Jim Yellig and wife of Bill Koch (who helped m
 
 ### Sources
 Koch, P. and Weisner Thompson, E. (2013). *Images of America: Santa Claus.* Arcadia Publishing.
+
 Futrell, J. et all. (2022). *Holiday World & Splashin' Safari: 75 Years of America's First Theme Park.* Quarry Books.
