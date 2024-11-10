@@ -21,8 +21,13 @@ Writing letters to Santa wasn't just first children! Adults would write in as we
 
 ## *Breaking Ground on a New Land*
 
-Santa Claus Land opened August 3, 1946 becoming the country's first themed amusement park. It contained attractions like a miniature circus, the *House of Dolls*, and of course it wouldn't be complete without Mr. St. Nick himself! 
+Santa Claus Land opened August 3, 1946 becoming the country's first themed amusement park. It contained attractions like a miniature circus, the *House of Dolls*, and of course it wouldn't be complete without Mr. St. Nick himself! In 1956 the park went under major expansion. They maintained the famous Toyland Exhibit from their predecessor, Santa Claus Town - created by Milton Harris in 1936, where kids once could watch Santa and his elves build toys (which was sponsored by America's leadng toy manufacturers at the time). It was a needed space for children to be able to come and play for free during the Great Depression. But with Santa Claus Land's renovation, they updated the Toyland Exhibit to showcase toys from around the world. The toys were hard to get at first, due to the world recovering from World War II. But once it opened, it was a hit. In 1983, Santa Claus Land would be officially rebraned as Holiday World and would be the home to many groundbreaking wooden rollercoasters, like The Raven which took its first journey in 1995. 
+
+## Santa Claus Museum & Village 
+
+Pat Koch, daughter of Santa Claus Jim Yellig and wife of Bill Koch (who helped make Holiday World & Splashin' Safari what it is today) decided that the history of the town, of the theme park, and those who built it all, needed a place to house this history for people to come see and learn. In XXXX, *The Santa Claus Museum & Village* opened. Near the theme park you can stop by and learn about the town and the park, see their collection of artifacts and documents related to the town, and write a letter to Santa (which if you provide your full address, Santa's elves will make sure you get a reply)! Also within the village is the 1880 Santa Claus Church and original Santa Claus Post Office that started it all. 
 
 
 ### Sources
 Koch, P. and Weisner Thompson, E. (2013). *Images of America: Santa Claus.* Arcadia Publishing.
+Futrell, J. et all. (2022). *Holiday World & Splashin' Safari: 75 Years of America's First Theme Park.* Quarry Books.
