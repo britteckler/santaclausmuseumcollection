@@ -1,7 +1,7 @@
 ---
 title: Collection History
 layout: about
-permalink: /history.md
+permalink: /history.html
 ---  
 
 # The History of Santa Claus, Indiana
