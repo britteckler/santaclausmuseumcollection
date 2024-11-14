@@ -1,7 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/
 About,/about.html
-History,/history.md
+History,/history.md,
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
