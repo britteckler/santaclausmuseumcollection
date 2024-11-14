@@ -1,10 +1,10 @@
 color_class,color
-primary,#b30000
-secondary,#004d00
-success,#ffffff
-info,#f0f0f5
-warning,#660000
-danger,#f0f0f5
-light,#004d00
-dark,#f0f0f5
+primary,#ff0000
+secondary,#00ff00
+success,#ffff00
+info,#00ffff
+warning,#ff0080
+danger,#0000e6
+light,#ff9900
+dark,#bf80ff
 
