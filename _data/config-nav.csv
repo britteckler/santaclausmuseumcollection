@@ -2,6 +2,7 @@ display_name,stub,dropdown_parent
 Home,/
 About,/about.html
 History,/history.html
+History,/scmvhistory.html
 Browse,/browse.html
 Subjects,/subjects.html
 Locations,/locations.html
