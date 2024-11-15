@@ -24,7 +24,7 @@ The American Legion in southern Indiana soon jumped on board to help the post of
 
 Writing letters to Santa wasn't just first children! Adults would write in as well, asking for Santa to write back to their child or a child they know because of how much joy it would bring them when they knew their stockings would not be full. There was even a woman who wrote in from Ohio asking for a *Santa of her own*. Which garnered a few different responses from interested parties...
 
-{% include feature/image.html objectid="scmv_016" width="95" caption="A souvenir map outlining the areas of Santa Claus Land." %}
+{% include feature/image.html objectid="scmv_016" width="75" caption="A souvenir map outlining the areas of Santa Claus Land." %}
 
 ## *Breaking Ground on a New Land*
 
