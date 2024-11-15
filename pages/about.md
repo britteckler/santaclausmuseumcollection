@@ -34,4 +34,4 @@ Brittany would like to thank museum director, Kathleen Crews and also Mrs. Pat K
 
 You can visit the Santa Claus Museum & Village! Located at 69 N State Road 245, Santa Claus, IN 47579-6363
 
-Visit their website [here] (https://santaclausmuseum.org/) for more information and hours of operation.
+Visit their website [here](https://santaclausmuseum.org/) for more information and hours of operation.
