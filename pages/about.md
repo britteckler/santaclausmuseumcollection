@@ -8,7 +8,7 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection;The Letters;Created By" %}
 
-{% include feature/image.html objectid="scmv_004" width="75" caption="A souvenir fabric patch from Santa Claus Land." %}
+{% include feature/image.html objectid="objects/img_4163.jpg" width="75" caption="A scene of Santa Jim Yellig displayed the Santa Claus Museum & Village." %}
 
 ## *About the Collection*
 
