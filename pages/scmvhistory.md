@@ -4,7 +4,7 @@ layout: about
 permalink: /scmvhistory.html
 ---
 
-{% include feature/jumbotron.html objectid="scmv_017" %}
+{% include feature/jumbotron.html objectid="objects/img_4231.jpg" %}
 
 {% include feature/nav-menu.html sections="The History of Santa Claus, Indiana;Dear Santa;Breaking Ground on a New Land;Santa Claus Museum & Village" %}
 
@@ -13,6 +13,8 @@ permalink: /scmvhistory.html
 It begins with a post office, or well, a *need* for a post office. It actually begins with more than the need for a post office, but it is where a lot of the stories surrounding Santa Claus, Indiana start. It was a defining moment for them, how they went from Santa Fee, Indiana (yes, Santa *Fee*) to Santa Claus. The small, southern farming Indiana town was denied a post office due to their name being too similar to Santa *Fe*, Indiana and the government decided it would be too confusing and cause too many problems. “Choose another name,” the townspeople were told, so they got to work as good farmers do. 
 
 There are many legends and myths surrounding how exactly Santa Claus, Indiana became Santa Claus. But the most popular and well known tale is this: The townspeople gathered in a small church on Christmas Eve to discuss the new name. Wind blew through the church, opening the door, which allowed for the people to hear the sound of sleigh bells coming from outside. While there was no sleigh in sight, the children started to yell “It’s Santa Claus\!” All of this excitement made it easy for the town leaders to declare that Santa Claus would be a good name for their home. The Post Office Department approved of this new name in 1856 and to make the name even sweeter, the postmaster of Fulda, Indiana, who helped finalize the application had the perfect name: Nickolaus. 
+
+{% include feature/jumbotron.html objectid="objects/img_4235.jpg" %}
 
 ## *Dear Santa...* 
 
