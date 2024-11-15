@@ -6,7 +6,7 @@ permalink: /about.html
 
 {% include feature/jumbotron.html objectid="scmv_035" %}
 
-{% include feature/nav-menu.html sections="About the Collection;The Letters" %}
+{% include feature/nav-menu.html sections="About the Collection;The Letters;Created By" %}
 
 {% include feature/image.html objectid="scmv_004" width="75" caption="A souvenir fabric patch from Santa Claus Land." %}
 
