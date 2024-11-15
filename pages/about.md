@@ -8,7 +8,7 @@ permalink: /about.html
 
 {% include feature/nav-menu.html sections="About the Collection;The Letters;Created By" %}
 
-{% include feature/image.html objectid="objects/img_4163.jpg" width="75" caption="A scene of Santa Jim Yellig displayed the Santa Claus Museum & Village. *Photo by Brittany Eckler.*" %}
+{% include feature/image.html objectid="objects/img_4163.jpg" width="75" caption="A scene of Santa Jim Yellig displayed the Santa Claus Museum & Village. *Photo by Brittany Eckler."* %}
 
 ## *About the Collection*
 
