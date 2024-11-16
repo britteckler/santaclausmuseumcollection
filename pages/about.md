@@ -4,7 +4,7 @@ layout: about
 permalink: /about.html
 ---
 
-{% include feature/jumbotron.html objectid="scmv_035" %}
+{% include feature/jumbotron.html objectid="objects/img_4201.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;The Letters;Created By" %}
 
@@ -25,6 +25,8 @@ As you look through the collection you will find a lot of artifacts that are sou
 The Dear Santa letters that have been included for this digital collection are some of the earliest letters that were saved and in relatively okay condition (1930s-1949). They are all worth the time reading through! It is really fascinating to read letters from children during such a tumultuous and grim time in America. One popular item for young girls was a "rubber doll that wets itself," while for the young boys they would like mouth organs and air riffles. Meanwhile there is one young girl who asks for a bed to sleep on. There can be a lot found within these letters to Santa. Some write quick messages, simply stating what they want for Christmas. While others seem to need a writing outlet to describe happenings in their life. They also come from children (and adults) outside of Indiana and the United States. A group of children from South Africa took the time to draw what they would like Santa to bring them. (Seen above.)
 
 Children from all over the world still write to Santa to this day. Santa's Elves work hard to make sure every child gets a response - as long as they include their return address! 
+
+{% include feature/image.html objectid="objects/img_4254.jpg" width="75" caption="The 1880 Santa Claus Church. Photo by Brittany Eckler." %}
 
 ### Created By
 
