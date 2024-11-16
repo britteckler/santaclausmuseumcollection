@@ -5,7 +5,7 @@ permalink: /metadata-profile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
-{% include feature/jumbotron.html objectid="XXXX" heading="About: Metadata Application Profile" text="The descriptive and bibliographic metadata for The Santa Claus Museum & Village." %} 
+{% include feature/jumbotron.html objectid="scmv_035" heading="About: Metadata Application Profile" text="The descriptive and bibliographic metadata for The Santa Claus Museum & Village." %} 
 
 <div>
 <h1>Metadata Application Profile for <cite>The Santa Claus Museum & Village</cite></h1>
