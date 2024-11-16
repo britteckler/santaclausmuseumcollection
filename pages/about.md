@@ -20,11 +20,13 @@ As you look through the collection you will find a lot of artifacts that are sou
 
 {% include feature/pdf.html objectid="scmv_026" width="50" caption="Letters for Santa drawn by children from South Africa." %}
 
+
 ## *The Letters*
 
 The Dear Santa letters that have been included for this digital collection are some of the earliest letters that were saved and in relatively okay condition (1930s-1949). They are all worth the time reading through! It is really fascinating to read letters from children during such a tumultuous and grim time in America. One popular item for young girls was a "rubber doll that wets itself," while for the young boys they would like mouth organs and air riffles. Meanwhile there is one young girl who asks for a bed to sleep on. There can be a lot found within these letters to Santa. Some write quick messages, simply stating what they want for Christmas. While others seem to need a writing outlet to describe happenings in their life. They also come from children (and adults) outside of Indiana and the United States. A group of children from South Africa took the time to draw what they would like Santa to bring them. (Seen above.)
 
 Children from all over the world still write to Santa to this day. Santa's Elves work hard to make sure every child gets a response - as long as they include their return address! 
+
 
 {% include feature/image.html objectid="objects/img_4257.jpg;objects/img_4162.jpg" width="75" caption="A peak into one of the displays at the museum. Photo by Brittany Eckler.;Museum director Kathleen Crews has been hard at work adding Santas into the museum. Photo by Brittany Eckler." %}
 
