@@ -4,7 +4,7 @@ layout: about
 permalink: /scmvhistory.html
 ---
 
-{% include feature/image.html objectid="objects/img_4231.jpg" width="65" caption="Outside of the original Santa Claus, Indiana Post Office. Photo by Brittany Eckler." %}
+{% include feature/image.html objectid="objects/img_4231.jpg" width="85" caption="Outside of the original Santa Claus, Indiana Post Office. Photo by Brittany Eckler." %}
 
 {% include feature/nav-menu.html sections="The History of Santa Claus, Indiana;Dear Santa;Breaking Ground on a New Land;Santa Claus Museum & Village" %}
 
@@ -14,7 +14,7 @@ It begins with a post office, or well, a *need* for a post office. It actually b
 
 There are many legends and myths surrounding how exactly Santa Claus, Indiana became Santa Claus. But the most popular and well known tale is this: The townspeople gathered in a small church on Christmas Eve to discuss the new name. Wind blew through the church, opening the door, which allowed for the people to hear the sound of sleigh bells coming from outside. While there was no sleigh in sight, the children started to yell “It’s Santa Claus\!” All of this excitement made it easy for the town leaders to declare that Santa Claus would be a good name for their home. The Post Office Department approved of this new name in 1856 and to make the name even sweeter, the postmaster of Fulda, Indiana, who helped finalize the application had the perfect name: Nickolaus. 
 
-{% include feature/image.html objectid="objects/img_4235.jpg" width="65" caption="Inside of the original Santa Claus, Indiana Post Office. Photo by Brittany Eckler." %}
+{% include feature/image.html objectid="objects/img_4235.jpg" width="85" caption="Inside of the original Santa Claus, Indiana Post Office. Photo by Brittany Eckler." %}
 
 ## *Dear Santa...* 
 
@@ -30,7 +30,7 @@ Writing letters to Santa wasn't just first children! Adults would write in as we
 
 Santa Claus Land opened August 3, 1946 becoming the country's first themed amusement park. It contained attractions like a miniature circus, the *House of Dolls*, and of course it wouldn't be complete without Mr. St. Nick himself! In 1956 the park went under major expansion. They maintained the famous Toyland Exhibit from their predecessor, Santa Claus Town - created by Milton Harris in 1936, where kids once could watch Santa and his elves build toys (which was sponsored by America's leadng toy manufacturers at the time). It was a needed space for children to be able to come and play for free during the Great Depression. But with Santa Claus Land's renovation, they updated the Toyland Exhibit to showcase toys from around the world. The toys were hard to get at first, due to the world recovering from World War II. But once it opened, it was a hit. In 1983, Santa Claus Land would be officially rebraned as Holiday World and would be the home to many groundbreaking wooden rollercoasters, like The Raven which took its first journey in 1995. 
 
-{% include feature/image.html objectid="objects/img_4254.jpg" width="65" caption="The 1880 Santa Claus Church. Photo by Brittany Eckler." %}
+{% include feature/image.html objectid="objects/img_4254.jpg" width="85" caption="The 1880 Santa Claus Church. Photo by Brittany Eckler." %}
 
 ## Santa Claus Museum & Village 
 
