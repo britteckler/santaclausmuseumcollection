@@ -30,7 +30,7 @@ Writing letters to Santa wasn't just first children! Adults would write in as we
 
 Santa Claus Land opened August 3, 1946 becoming the country's first themed amusement park. It contained attractions like a miniature circus, the *House of Dolls*, and of course it wouldn't be complete without Mr. St. Nick himself! In 1956 the park went under major expansion. They maintained the famous Toyland Exhibit from their predecessor, Santa Claus Town - created by Milton Harris in 1936, where kids once could watch Santa and his elves build toys (which was sponsored by America's leadng toy manufacturers at the time). It was a needed space for children to be able to come and play for free during the Great Depression. But with Santa Claus Land's renovation, they updated the Toyland Exhibit to showcase toys from around the world. The toys were hard to get at first, due to the world recovering from World War II. But once it opened, it was a hit. In 1983, Santa Claus Land would be officially rebraned as Holiday World and would be the home to many groundbreaking wooden rollercoasters, like The Raven which took its first journey in 1995. 
 
-{% include feature/image.html objectid="objects/img_01182.jpg" width="75" caption="A souvenir map outlining the areas of Santa Claus Land." %}
+{% include feature/image.html objectid="objects/img_4254.jpg" width="75" caption="The 1880 Santa Claus Church. Photo by Brittany Eckler." %}
 
 ## Santa Claus Museum & Village 
 
