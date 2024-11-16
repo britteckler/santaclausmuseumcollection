@@ -20,8 +20,8 @@ credits: true
 	<th><strong>Obligation</strong></th>
 	<th><strong>Content Guidelines</strong></th>
 	<th><strong>Controlled Vocabulary</strong></th>
-	<th>Examples</th>
-	<th>Notes</th>
+	<th><strong>Examples</strong></th>
+	<th><strong>Notes</strong></th>
 </tr>
 </thead>
 
