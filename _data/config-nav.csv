@@ -1,6 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/
-About,/about.html
+About,,
+About,/about.html,About
+Metadata Profile for The Santa Claus Museum & Village,/metadata-profile.html,About
 History,/scmvhistory.html
 Browse,/browse.html
 Subjects,/subjects.html
