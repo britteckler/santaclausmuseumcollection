@@ -41,7 +41,7 @@ credits: true
 	<td>Identifier</td>
 	<td>Not Repeatable</td>
 	<td>Mandatory</td>
-	<td>The unique identification given to a resource when uploaded to Github. To match the objectid, i.e., scm_###.</td>
+	<td>The unique identification given to a resource when uploaded to Github. To match the objectid, i.e., scmv_###.</td>
 	<td></td>
 	<td><ul><li><code>scmv_001</code></li></ul></td>
 	<td></td>
@@ -139,7 +139,7 @@ credits: true
 	<td>Mandatory</td>
 	<td>The type of the physical item. There is only two options currently for first iteration of collection: Physical Artifact or Text.</td>
 	<td><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/2003-02-12/">DCMI: Dublin Core™ Metadata Type Vocabulary</a></td>
-	<td><ul><li><code>Physical Object</code></li><li><code>Comic Book Plus</code></li><li><code>Text</code></li></td>
+	<td><ul><li><code>Physical Object</code></li><li><code>Comic Book Plus</code></li><li><code>Text</code></li></ul></td>
 	<td></td>
 </tr>
 <tr>
