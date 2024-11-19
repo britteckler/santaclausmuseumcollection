@@ -29,8 +29,8 @@ credits: true
 <tr>
 	<td>objectid</td>
 	<td>Identifier</td>
-	<td>NR</td>
-	<td>M</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory</td>
 	<td>A unique and unambiguous identification given to the resource. Follows the format: scmv_###</td>
 	<td></td>
 	<td><ul><li><code>scmv_001</code></li><li><code>scmv_016</code></li><li><code>scmv_024</code></li></ul></td>
@@ -39,8 +39,8 @@ credits: true
 <tr>
 	<td>filename</td>
 	<td>Identifier</td>
-	<td>NR</td>
-	<td>M</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory</td>
 	<td>The unique identification given to a resource when uploaded to Github. To match the objectid, i.e., scm_###.</td>
 	<td></td>
 	<td><ul><li><code>scmv_001</code></li></ul></td>
@@ -49,8 +49,8 @@ credits: true
 <tr>
 	<td>title</td>
 	<td>Title</td>
-	<td>R</td>
-	<td>M</td>
+	<td>Repeatable</td>
+	<td>Mandatory</td>
 	<td>A name given to the resource with the first letter of each word capitalized.</td>
 	<td></td>
 	<td>
@@ -65,8 +65,8 @@ credits: true
 <tr>
 	<td>format</td>
 	<td>Format</td>
-	<td>NR</td>
-	<td>M</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory</td>
 	<td>The file format of the digital object i.e., .JPG...Follow format on IANA </td>
 	<td><a href="https://www.iana.org/assignments/media-types/media-types.xhtml">IANA Media Types</a></td>
 	<td><ul><li><code>image/jpg</code></li><li><code>application/pdf</code></li></ul></td>
@@ -75,8 +75,8 @@ credits: true
 <tr>
 	<td>material</td>
 	<td>Format</td>
-	<td>NR</td>
-	<td>MA</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory, if applicable</td>
 	<td>The physical material culture used to create the artifact. List the basic material item is made from.</td>
 	<td><a href="https://www.getty.edu/research/tools/vocabularies/aat/index.html">AAT</a></td>
 	<td><ul><li><code>Plastic</code></li><li><code>Wood</code></li></ul></td>
@@ -85,8 +85,8 @@ credits: true
 <tr>
 	<td>description</td>
 	<td>Description</td>
-	<td>NR</td>
-	<td>M</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory</td>
 	<td>A concise and brief description of object item. Typically, 1 sentence in length, no more than 2 sentences.</td>
 	<td></td>
 	<td><ul><li><code>A souvenir fan from Santa Claus Land.</code></li><li><code>Program that reads: "United States 1963 Christmas Stamp Dedication Ceremony Santa Claus, Indiana November 1, 1963"</code></li><li><code>Dear Santa Letter written in German.</code></li>
@@ -95,8 +95,8 @@ credits: true
 <tr>
 	<td>date</td>
 	<td>Date</td>
-	<td>NR</td>
-	<td>MA</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory, if applicable</td>
 	<td>The year an artifact was originally manufactured or the year a Dear Santa Letter was written. "YYYY, YYYY-MM, or YYYY-MM-DD"</td>
 	<td><a href="https://www.iso.org/iso-8601-date-and-time-format.html">ISO 8601</a></td>
 	<td><ul><li><code>1952</code></li><li><code>1949-12-13</code></li></ul></td>
@@ -105,8 +105,8 @@ credits: true
 <tr>
 	<td>location</td>
 	<td>Coverage</td>
-	<td>NR</td>
-	<td>MA</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory, if applicable</td>
 	<td>This field is for the Dear Santa Letters by children from various geographical locations. "City, Sate, Country" or "City, Country"</td>
 	<td><a href="https://www.getty.edu/research/tools/vocabularies/tgn/index.html">TGN</a></td>
 	<td><ul><li><code>Sandusky, Ohio, USA</code></li><li><code>Hamburg, Germany</code></li></ul></td>
@@ -115,8 +115,8 @@ credits: true
 <tr>
 	<td>creator</td>
 	<td>Creator</td>
-	<td>R</td>
-	<td>MA</td>
+	<td>Repeatable</td>
+	<td>Mandatory, if applicable</td>
 	<td>The child who wrote the letter to Santa if applicable. Follows Last Name/Initial, First Name/Initial. If multiple names on one letter, names separated by semicolons and if no name, it will be left blank. For artifacts, creator will typically be Santa Claus Land.</td>
 	<td></td>
 	<td><ul><li><code>Friedley, Mary Ann</code></li><li><code>Santa Claus Land</code></li></ul></td>
@@ -125,8 +125,8 @@ credits: true
 <tr>
 	<td>display</td>
 	<td>Coverage</td>
-	<td>NR</td>
-	<td>M</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory</td>
 	<td>The current location of an item - either on display or in storage. There are only two options to keep it simple and controlled: On Display or In Storage.</td>
 	<td></td>
 	<td><ul><li><code>In Storage</code></li><li><code>On Display</code></li></ul></td>
@@ -135,8 +135,8 @@ credits: true
 <tr>
 	<td>type</td>
 	<td>Type</td>
-	<td>NR</td>
-	<td>M</td>
+	<td>Not Repeatable</td>
+	<td>Mandatory</td>
 	<td>The type of the physical item. There is only two options currently for first iteration of collection: Physical Artifact or Text.</td>
 	<td><a href="https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/2003-02-12/">DCMI: Dublin Core™ Metadata Type Vocabulary</a></td>
 	<td><ul><li><code>Physical Object</code></li><li><code>Comic Book Plus</code></li><li><code>Text</code></li></td>
@@ -145,8 +145,8 @@ credits: true
 <tr>
 	<td>rights</td>
 	<td>Rights</td>
-	<td>R</td>
-	<td>MA</td>
+	<td>Repeatable</td>
+	<td>Mandatory, if applicable</td>
 	<td>A rights statement for select items.</td>
 	<td><a href="http://rightsstatements.org/vocab/NKC/1.0/">Rights Statement</a></td>
 	<td>"The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."</td>
@@ -155,8 +155,8 @@ credits: true
 <tr>
 	<td>rightsstatement</td>
 	<td>Rights</td>
-	<td>NR</td>
-	<td>M</td>
+	<td>Repeatable</td>
+	<td>Mandatory</td>
 	<td>A rights statement for select items.</td>
 	<td><a href="https://rightsstatements.org">RightsStatements.org</a></td>
 	<td></td>
@@ -166,13 +166,3 @@ credits: true
 </table>
 </div>
 <div>
-<h2>Legend</h2>
-
-<ul>
-<li><code>M</code> Mandatory</li>
-<li><code>MA</code> Mandatory, if applicable</li>
-<li><code>R</code> Repeatable</li>
-<li><code>NR</code> Not repeatable</li>
-</ul>
-</div>
-</div>
