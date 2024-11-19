@@ -105,7 +105,7 @@ credits: true
 <tr>
 	<td>location</td>
 	<td>Coverage</td>
-	<td>Not Repeatable</td>
+	<td>Repeatable</td>
 	<td>Mandatory, if applicable</td>
 	<td>This field is for the Dear Santa Letters by children from various geographical locations. "City, Sate, Country" or "City, Country"</td>
 	<td><a href="https://www.getty.edu/research/tools/vocabularies/tgn/index.html">TGN</a></td>
@@ -125,7 +125,7 @@ credits: true
 <tr>
 	<td>display</td>
 	<td>Coverage</td>
-	<td>Not Repeatable</td>
+	<td>Repeatable</td>
 	<td>Mandatory</td>
 	<td>The current location of an item - either on display or in storage. There are only two options to keep it simple and controlled: On Display or In Storage.</td>
 	<td></td>
