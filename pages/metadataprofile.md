@@ -158,5 +158,9 @@ credits: true
 	<td>A rights statement for select items.</td>
 	<td><a href="https://rightsstatements.org">RightsStatements.org</a></td>
 	<td></td>
-	<td>The Santa Claus Museum owns photographs of the artifacts and digitized letters. Commercial status is unknown at this time.</td></tr></tbody></table></div>
+	<td>The Santa Claus Museum owns photographs of the artifacts and digitized letters. Commercial status is unknown at this time.</td>
+</tr>
+</tbody>
+</table>
+</div>
 
