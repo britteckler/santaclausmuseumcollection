@@ -34,6 +34,8 @@ The Dear Santa letters that have been included for this digital collection are s
 
 Children from all over the world still write to Santa to this day. Santa's Elves work hard to make sure every child gets a response - as long as they include their return address! 
 
+{% include feature/image.html objectid="objects/img_4257.jpg;objects/img_4162.jpg" width="75" caption="A peak into one of the displays at the museum. Photo by Brittany Eckler.;Museum director Kathleen Crews has been hard at work adding Santas into the museum. Photo by Brittany Eckler." %}
+
 ## *About the Data* 
 
 The metadata used was chosen to help describe a broad range of information, but the information available also created limitations to the usable metadata. The content of this collection will include a combination of born-digital images of the artifacts that were taken with a digital camera by museum staff and the archival assistant, as well as digitized Dear Santa letters from children dating back to the 1940s. The main metadata fields used include: objectid, title, description, type of material used, date, location (place of origina/creation as well as local location in the museum - if an item is on disply or in storage), and creator. Please see the [Metadata Application Profile](https://britteckler.github.io/santaclausmuseumcollection/metadataprofile.html) for more information.
@@ -41,11 +43,6 @@ The metadata used was chosen to help describe a broad range of information, but 
 ## *Rights* 
 
 All items in the collection were either property of the Santa Claus Museum & Village, Santa Claus Land (Holiday World & Splashin' Safari), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. 
-
-
-
-{% include feature/image.html objectid="objects/img_4257.jpg;objects/img_4162.jpg" width="75" caption="A peak into one of the displays at the museum. Photo by Brittany Eckler.;Museum director Kathleen Crews has been hard at work adding Santas into the museum. Photo by Brittany Eckler." %}
-
 
 ### Created By
 
