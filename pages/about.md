@@ -30,7 +30,11 @@ Children from all over the world still write to Santa to this day. Santa's Elves
 
 ## *Metadata* 
 
-The metadata used was chosen to help describe a broad range of information, but the information available also created limitations to the usable metadata. #USE INFO FROM MAP
+The metadata used was chosen to help describe a broad range of information, but the information available also created limitations to the usable metadata. # USE INFO FROM MAP
+
+## *Rights* 
+
+All items in the collection were either property of the Santa Claus Museum & Village, Santa Claus Land (Holiday World & Splashin' Safari), or purchased by parties associated with the museum. # finish
 
 {% include feature/image.html objectid="objects/img_4257.jpg;objects/img_4162.jpg" width="75" caption="A peak into one of the displays at the museum. Photo by Brittany Eckler.;Museum director Kathleen Crews has been hard at work adding Santas into the museum. Photo by Brittany Eckler." %}
 
