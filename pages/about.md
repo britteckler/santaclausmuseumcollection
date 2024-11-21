@@ -16,7 +16,8 @@ At the Santa Claus Museum & Village you can find a wide variety of artifacts foc
 
 This digital collection is comprised of a tiny fraction of total artifacts and items you can find at The Santa Claus Museum & Village. The items you'll find here were chosen to be a representative sample of the types of artifacts you will find in person at the museum, but it by no means is meant to be the *only* types of items you will find within the collection. 
 
-As you look through the collection you will find a lot of artifacts that are souvenirs. The collection consisters of Schoenut Circus toys, various souvenir items like pennant flags, flutes, and salt and pepper shakers, as well as letters written by children to Santa.
+As you look through the collection you will find a lot of artifacts that are souvenirs. The collection consisters of Schoenut Circus toys, various souvenir items like pennant flags, flutes, and salt and pepper shakers, as well as letters written by children to Santa. Quality of images of the artifacts varies. The images were taken at various times and majority not by the creator of this digital repository. 
+
 
 {% include feature/pdf.html objectid="scmv_026" width="50" caption="Letters for Santa drawn by children from South Africa." %}
 
@@ -27,6 +28,9 @@ The Dear Santa letters that have been included for this digital collection are s
 
 Children from all over the world still write to Santa to this day. Santa's Elves work hard to make sure every child gets a response - as long as they include their return address! 
 
+## *Metadata* 
+
+The metadata used was chosen to help describe a broad range of information, but the information available also created limitations to the usable metadata. #USE INFO FROM MAP
 
 {% include feature/image.html objectid="objects/img_4257.jpg;objects/img_4162.jpg" width="75" caption="A peak into one of the displays at the museum. Photo by Brittany Eckler.;Museum director Kathleen Crews has been hard at work adding Santas into the museum. Photo by Brittany Eckler." %}
 
