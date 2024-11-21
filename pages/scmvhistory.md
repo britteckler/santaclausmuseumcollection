@@ -24,7 +24,9 @@ These letters weren't just from children in Indiana, or the United States, but a
 
 The American Legion in southern Indiana soon jumped on board to help the post office with their replies. Led by Jim Yellig, *the* Santa Claus of Santa Claus, Indiana (and beyond) worked with the men at the Legion to make sure no letter was left behind. 
 
-Writing letters to Santa wasn't just for children! Adults would write in as well, asking for Santa to write back to their child or a child they know because of how much joy it would bring them when they knew their stockings would not be full. There was even a woman who wrote in from Ohio asking for a *Santa of her own*. Which garnered a few different responses from interested parties...You can read the Ohio Widow's letter and newspaper clipping in [*Letters to Santa Claus: The Elves*](https://iucat.iu.edu/catalog/18551123) by Pat Koch and Emily Weisner Thompson by IU Press. Note: Link works for IU faculty and students only. If you are interested in purchasing a copy see [IU Press' website](https://iupress.org/9780253017949/letters-to-santa-claus/).
+Writing letters to Santa wasn't just for children! Adults would write in as well, asking for Santa to write back to their child or a child they know because of how much joy it would bring them when they knew their stockings would not be full. There was even a woman who wrote in from Ohio asking for a *Santa of her own*. Which garnered a few different responses from interested parties...You can read the Ohio Widow's letter and newspaper clipping in [*Letters to Santa Claus: The Elves*](https://iucat.iu.edu/catalog/18551123) by Pat Koch and Emily Weisner Thompson by IU Press. 
+
+Note: Link works for IU faculty and students only. If you are interested in purchasing a copy see [IU Press' website](https://iupress.org/9780253017949/letters-to-santa-claus/).
 
 ## *Breaking Ground on a New Land*
 
