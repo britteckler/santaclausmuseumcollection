@@ -44,7 +44,7 @@ The metadata used was chosen to help describe a broad range of information, but 
 
 All items in the collection were either property of the Santa Claus Museum & Village, Santa Claus Land (Holiday World & Splashin' Safari), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. 
 
-### Created By
+## Created By
 
 This digital collection has been created by Brittany Eckler, a graduate student in library science at Indiana Unviversity Bloomington. She works as a Rural Archives Intern for the Santa Claus Museum & Village in partnership with The Center for Rural Engagement on their Sustaining Hoosier Communities project. Images of collection items belong to the Santa Claus Museum & Village.
 
