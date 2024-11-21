@@ -43,7 +43,9 @@ The metadata used was chosen to help describe a broad range of information, but 
 All items in the collection were either property of the Santa Claus Museum & Village, Santa Claus Land (Holiday World & Splashin' Safari), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. 
 
 
+
 {% include feature/image.html objectid="objects/img_4257.jpg;objects/img_4162.jpg" width="75" caption="A peak into one of the displays at the museum. Photo by Brittany Eckler.;Museum director Kathleen Crews has been hard at work adding Santas into the museum. Photo by Brittany Eckler." %}
+
 
 ### Created By
 
