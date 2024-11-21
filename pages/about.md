@@ -6,21 +6,27 @@ permalink: /about.html
 
 {% include feature/jumbotron.html objectid="objects/img_4201.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;The Letters;Metadata;Rights;Created By" %}
+{% include feature/nav-menu.html sections="About the Collection;The Letters;About the Data;Rights;Created By" %}
 
 {% include feature/image.html objectid="objects/img_4163.jpg" width="75" caption="A scene of Santa Jim Yellig displayed the Santa Claus Museum & Village. Photo by Brittany Eckler." %}
 
 ## *About the Collection*
 
+### Context Overview:
+
+The Santa Claus Museum & Village is home to the history of Santa Claus, Indiana and the families that founded Santa Claus Land (now Holiday World and Splashin’ Safari) and built up the local town. The museum’s artifacts range from historical documents to antique dolls and toys. Selected items within the collection currently can only be viewed on-site in Santa Claus, this repository has been created to help make the collection more accessible.
+
+### In More Detail:
+
 At the Santa Claus Museum & Village you can find a wide variety of artifacts focused around the local town history and the families that made Santa Claus Land (now known as Holiday World & Splashin’ Safari) and the town of Santa Claus, Indiana what it is today. Within the museum you will also see a large collection of trains, dolls, Santa Claus memorabilia, Santa Claus Land souvenirs, and the famous letters to Santa - written by children dating back to the 1930s. 
 
 This digital collection is comprised of a tiny fraction of total artifacts and items you can find at The Santa Claus Museum & Village. The items you'll find here were chosen to be a representative sample of the types of artifacts you will find in person at the museum, but it by no means is meant to be the *only* types of items you will find within the collection. 
 
-As you look through the collection you will find a lot of artifacts that are souvenirs. The collection consisters of Schoenut Circus toys, various souvenir items like pennant flags, flutes, and salt and pepper shakers, as well as letters written by children to Santa. Quality of images of the artifacts varies. The images were taken at various times and majority not by the creator of this digital repository. 
+As you look through the collection you will find a lot of artifacts that are souvenirs. The collection consisters of Schoenut Circus toys, various souvenir items like pennant flags, flutes, and salt and pepper shakers, as well as letters written by children to Santa. 
 
+**Please note:** The quality of images of the artifacts varies. The images were taken at various times and majority not by the creator of this digital repository but by museum staff. 
 
 {% include feature/pdf.html objectid="scmv_026" width="50" caption="Letters for Santa drawn by children from South Africa." %}
-
 
 ## *The Letters*
 
@@ -28,13 +34,13 @@ The Dear Santa letters that have been included for this digital collection are s
 
 Children from all over the world still write to Santa to this day. Santa's Elves work hard to make sure every child gets a response - as long as they include their return address! 
 
-## *Metadata* 
+## *About the Data* 
 
-The metadata used was chosen to help describe a broad range of information, but the information available also created limitations to the usable metadata. # USE INFO FROM MAP
+The metadata used was chosen to help describe a broad range of information, but the information available also created limitations to the usable metadata. The content of this collection will include a combination of born-digital images of the artifacts that were taken with a digital camera by museum staff and the archival assistant, as well as digitized Dear Santa letters from children dating back to the 1940s. The main metadata fields used include: objectid, title, description, type of material used, date, location (place of origina/creation as well as local location in the museum - if an item is on disply or in storage), and creator. Please see the [Metadata Application Profile](https://britteckler.github.io/santaclausmuseumcollection/metadataprofile.html) for more information.
 
 ## *Rights* 
 
-All items in the collection were either property of the Santa Claus Museum & Village, Santa Claus Land (Holiday World & Splashin' Safari), or purchased by parties associated with the museum. # finish
+All items in the collection were either property of the Santa Claus Museum & Village, Santa Claus Land (Holiday World & Splashin' Safari), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. 
 
 
 {% include feature/image.html objectid="objects/img_4257.jpg;objects/img_4162.jpg" width="75" caption="A peak into one of the displays at the museum. Photo by Brittany Eckler.;Museum director Kathleen Crews has been hard at work adding Santas into the museum. Photo by Brittany Eckler." %}
