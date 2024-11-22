@@ -148,7 +148,7 @@ credits: true
 </tr>
 <tr>
 	<td>rightsstatement</td>
-	<td>Rights</td>
+	<td>Rights Statement</td>
 	<td>Not Repeatable</td>
 	<td>Mandatory</td>
 	<td>A rights statement for select items.</td>
