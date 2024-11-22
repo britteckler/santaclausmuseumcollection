@@ -1,7 +1,7 @@
 ---
 title: Metadata Profile for The Santa Claus Museum & Village
 layout: about
-permalink: /metadata-profile.html
+permalink: /metadataprofile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
