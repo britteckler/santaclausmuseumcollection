@@ -93,7 +93,7 @@ navbar-background: bg-danger
 bootswatch: sketchy
 
 # THEME FONTS
-base-font-size: 1.0em
+base-font-size: 1.2em
 text-color: "#191919"
 link-color: "#b30000"
 base-font-family: 'Darker Grotesque' # comment out for bootstrap defaults. e.g. Roboto
