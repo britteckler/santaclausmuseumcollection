@@ -159,14 +159,4 @@ credits: true
 </tbody>
 </table>
 </div>
-<div>
-<h2>Legend</h2>
-
-<ul>
-<li><code>M</code> Mandatory</li>
-<li><code>MA</code> Mandatory, if applicable</li>
-<li><code>R</code> Repeatable</li>
-<li><code>NR</code> Not repeatable</li>
-</ul>
-</div>
 </div>
