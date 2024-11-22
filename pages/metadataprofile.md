@@ -83,7 +83,7 @@ credits: true
 	<td>Mandatory</td>
 	<td>A concise and brief description of object item. Typically, 1 sentence in length, no more than 2 sentences.</td>
 	<td></td>
-	<td><ul><li><code>A souvenir fan from Santa Claus Land.</code></li></ul><ul><li><code>Program that reads: "United States 1963 Christmas Stamp Dedication Ceremony Santa Claus, Indiana November 1, 1963"</code></li></ul><ul><li><code>Dear Santa Letter written in German.</code></li></ul></td>
+	<td><ul><li><code>A souvenir fan from Santa Claus Land.</code></li></ul><ul><li><code>Program that reads: "United States 1963 Christmas Stamp Dedication Ceremony Santa Claus, Indiana November 1, 1963"</code></li></ul></td>
 	<td></td>
 </tr>
 <tr>
