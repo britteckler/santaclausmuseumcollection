@@ -45,8 +45,6 @@ All items in the collection are either property of the *Santa Claus Museum & Vil
 
 ## *Created By*
 
-{% include feature/pdf.html objectid="objects/brittanyecklerprofile.jpg" %}
-
 This digital collection has been created by Brittany Eckler, a graduate student in Library Science at Indiana Unviversity Bloomington. She works as a Rural Archives Intern for the Santa Claus Museum & Village in partnership with The Center for Rural Engagement on their Sustaining Hoosier Communities project. Images of collection items belong to the Santa Claus Museum & Village.
 
 Brittany would like to thank the Director of Student Engagement for the Center for Rural Engagement - Colleen Rose, Santa Claus Museum and Village Director - Kathleen Crews, and also the remarkable Mrs. Koch for their assistance, knowledge, and kindness. 
