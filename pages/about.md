@@ -3,7 +3,6 @@ title: About
 layout: about
 permalink: /about.html
 ---
-
 {% include feature/jumbotron.html objectid="objects/img_4201.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;The Letters;About the Data;Rights;Created By" %}
@@ -42,14 +41,14 @@ The metadata used was chosen to help describe a broad range of information, but 
 
 ## *Rights* 
 
-All items in the collection were either property of the Santa Claus Museum & Village, Santa Claus Land (Holiday World & Splashin' Safari), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. 
+All items in the collection were either property of the *Santa Claus Museum & Village*, *Santa Claus Land* (*Holiday World & Splashin' Safari*), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. If you would like to use any information from this collection, please contanct [The Santa Claus Museum & Village](santaclausmuseum@santaclausmuseum.org) 
 
-## Created By
+## *Created By*
 
 This digital collection has been created by Brittany Eckler, a graduate student in library science at Indiana Unviversity Bloomington. She works as a Rural Archives Intern for the Santa Claus Museum & Village in partnership with The Center for Rural Engagement on their Sustaining Hoosier Communities project. Images of collection items belong to the Santa Claus Museum & Village.
 
-Brittany would like to thank museum director, Kathleen Crews and also Mrs. Pat Koch for their assistance, knowledge, and kindness. 
+Brittany would like to thank the Director of Student Engagement for the Center for Rural Engagement, Colleen Rose, Santa Claus Museum and Village Director, Kathleen Crews, and also the remarkable Mrs. Koch for their assistance, knowledge, and kindness. 
 
-You can visit the Santa Claus Museum & Village! Located at 69 N State Road 245, Santa Claus, IN 47579-6363
+You can visit the Santa Claus Museum & Village! Located at 69 N State Road 245, Santa Claus, IN 47579-6363.
 
 Visit their website [here](https://santaclausmuseum.org/) for more information and hours of operation.
