@@ -143,7 +143,7 @@ credits: true
 	<td>Mandatory, if applicable</td>
 	<td>A rights statement for select items.</td>
 	<td><a href="http://rightsstatements.org/vocab/NKC/1.0/">Rights Statement</a></td>
-	<td><ul><li><code>"The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made. Please refer to the organization that has made the Item available for more information. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use."</code></li></uL></td>
+	<td></td>
 	<td>The Santa Claus Museum owns photographs of the artifacts and digitized letters. Commercial status is unknown at this time.</td>
 </tr>
 <tr>
@@ -155,3 +155,8 @@ credits: true
 	<td><a href="https://rightsstatements.org">RightsStatements.org</a></td>
 	<td></td>
 	<td>The Santa Claus Museum owns photographs of the artifacts and digitized letters. Commercial status is unknown at this time.</td>
+</tr>
+	</tbody>
+	</table>
+	</div>
+	</div>
