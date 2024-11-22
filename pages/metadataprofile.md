@@ -5,6 +5,7 @@ permalink: /metadataprofile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
+
 {% include feature/jumbotron.html objectid="scmv_035" heading="About: Metadata Application Profile" text="The descriptive and bibliographic metadata for The Santa Claus Museum & Village." %} 
 
 <div>
@@ -156,7 +157,6 @@ credits: true
 	<td></td>
 	<td>The Santa Claus Museum owns photographs of the artifacts and digitized letters. Commercial status is unknown at this time.</td>
 </tr>
-	</tbody>
-	</table>
-	</div>
-	</div>
+</tbody>
+</table>
+</div>
