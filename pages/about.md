@@ -41,7 +41,7 @@ The metadata used was chosen to help describe a broad range of information, but 
 
 ## *Rights* 
 
-All items in the collection were either property of the *Santa Claus Museum & Village*, *Santa Claus Land* (*Holiday World & Splashin' Safari*), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. If you would like to use any information from this collection, please contanct [The Santa Claus Museum & Village](santaclausmuseum@santaclausmuseum.org) 
+All items in the collection were either property of the *Santa Claus Museum & Village*, *Santa Claus Land* (*Holiday World & Splashin' Safari*), donated by individuals for the museum to own and use as the museum sees fit, or purchased by parties associated with the museum. Copyright status is unknown, overall. See the [rights statement](https://rightsstatements.org/page/NKC/1.0/?language=en) for more information. If you would like to use any information from this collection, please contanct [The Santa Claus Museum & Village](mailto:santaclausmuseum@santaclausmuseum.org). 
 
 ## *Created By*
 
@@ -51,4 +51,4 @@ Brittany would like to thank the Director of Student Engagement for the Center f
 
 You can visit the Santa Claus Museum & Village! Located at 69 N State Road 245, Santa Claus, IN 47579-6363.
 
-Visit their website [here](https://santaclausmuseum.org/) for more information and hours of operation.
+Visit their website [here](https://santaclausmuseum.org/) for more information and hours of operation. Also check out their [Facebook page](https://www.facebook.com/SantaClausMuseum/) for more updates.
